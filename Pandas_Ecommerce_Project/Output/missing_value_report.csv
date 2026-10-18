@@ -1,0 +1,12 @@
+Column_Name,Missing_Count,Non_Missing_Count,Missing_Percentage
+InvoiceNo,0,1612,0.0
+InvoiceDate,0,1612,0.0
+StockCode,0,1612,0.0
+ProductDescription,23,1589,1.43
+Country,13,1599,0.81
+CustomerID,71,1541,4.4
+Quantity,0,1612,0.0
+UnitPrice,0,1612,0.0
+Revenue,0,1612,0.0
+TransactionType,0,1612,0.0
+IsIdentifiedCustomer,0,1612,0.0

@@ -1,0 +1,7 @@
+Metric,Before_Cleaning,After_Cleaning
+Total Rows,1612,1600
+Total Columns,11,11
+Missing Cells,107,84
+Rows with Missing CustomerID,71,71
+Rows with Missing or Blank ProductDescription,23,0
+Exact Duplicate Rows Beyond First Occurrences,12,0
